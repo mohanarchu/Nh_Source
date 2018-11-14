@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NH</string>
+    <string name="error">Acknowledged Successfully</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="title_activity_list">List</string>
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A new version of CMMS is available. Please update to version\s</string>
+    <string name="youAreNotUpdatedMessage1">\s now</string>
+    <string name="update">Update</string>
+</resources>
